@@ -1,2 +1,2 @@
-# seo
-Resources and Materials for Search Engine Optimization for .Gov Websites
+
+* [Resources](https://github.com/GSA/seo/blob/master/resources.md)
